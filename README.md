@@ -30,18 +30,18 @@ The **Movie Recommendation System** will function as follows:
 
 1. **User Input Processing Rules:**  
   - **IF** user inputs genre preference
-    Add genre to filter criteria
+    - Add genre to filter criteria
   - **IF** user specifies release year/period
-    Add year range to filter criteria
+    - Add year range to filter criteria
   - **IF** user indicates mood (e.g., "happy", "scary", "thoughtful")
-    Map mood to appropriate genres
+    - Map mood to appropriate genres
   - **IF** user sets runtime preferences (e.g., "short", "long")
-    Map to specific minute ranges
+    - Map to specific minute ranges
   - **IF** user mentions actors/directors
-    Add to preference criteria
+    - Add to preference criteria
 
 2. **Movie Filtering Rules:**  
-  - **FOR EACH** movie in database:
+  **FOR EACH** movie in database:
     - IF movie.genre matches ANY user genre preferences
       - Add points to movie score
     - IF movie.year is within user's preferred time period
@@ -79,7 +79,7 @@ The **Movie Recommendation System** will function as follows:
 
 ## Part 3: System Input and Output Results
 
-1. **Sample 1:**
+**Sample Interaction 1:**
 
 Welcome to the Movie Recommendation System!
 Let's find you a perfect movie to watch.
@@ -117,7 +117,7 @@ Thank you for your preferences! Finding recommendations...
 Enjoy your movie night! 🍿
 
 
-2. **Sample 2:**
+**Sample Interaction 2:**
 
 What genres are you interested in? (e.g., action, comedy, drama, sci-fi, thriller, horror, romance)
 Enter genres separated by commas: action, sci-fi, comedy
@@ -152,7 +152,7 @@ Thank you for your preferences! Finding recommendations...
 Enjoy your movie night! 🍿
 
 
-3. **Sample 3:**
+**Sample Interaction 3:**
 
 What genres are you interested in? (e.g., action, comedy, drama, sci-fi, thriller, horror, romance)
 Enter genres separated by commas: horror
