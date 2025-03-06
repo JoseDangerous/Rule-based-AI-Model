@@ -3,23 +3,23 @@
 
 ## Part 1: Initial Project Ideas
 
-### 1. Project Idea 1: Plant Disease Diagnostic Tool
+### Project Idea 1: Plant Disease Diagnostic Tool
 - **Description:** A system where users describe symptoms in their plants, and the AI provides possible diseases and treatment recommendations. 
 - **Rule-Based Approach:**  
-  - Uses decision trees with IF-THEN rules to match symptom descriptions with diseases.
-  - Keywords like "yellow leaves," "spots," or "wilting" trigger specific diagnostic paths.
+  Uses decision trees with IF-THEN rules to match symptom descriptions with diseases.
+  Keywords like "yellow leaves," "spots," or "wilting" trigger specific diagnostic paths.
 
-### 2. Project Idea 2: Movie Recommendation System
+### Project Idea 2: Movie Recommendation System
 - **Description:** Suggests movies based on user preferences and criteria provided.
 - **Rule-Based Approach:**  
-  - Rules match user inputs (genre preferences, mood, release year, length) against a database of movies, applying filters and priority rules.
+  Rules match user inputs (genre preferences, mood, release year, length) against a database of movies, applying filters and priority rules.
 
-### 3. Project Idea 3: Diet Meal Planner
+### Project Idea 3: Diet Meal Planner
 - **Description:** Creates meal suggestions based on dietary restrictions, preferences, and nutritional goals.  
 - **Rule-Based Approach:**  
-  - Applies rules to filter food options based on constraints (allergies, calories, nutritional requirements) and generates compatible meal combinations.
+  Applies rules to filter food options based on constraints (allergies, calories, nutritional requirements) and generates compatible meal combinations.
 
-### **Chosen Idea:** Movie Recommendation System 
+### Chosen Idea: Movie Recommendation System 
 **Justification:** I chose this idea because my friends, family, and I are always trying to decide on what to watch and this could help us decide. This project would be applicable to real-world scenarios and allow me to easily categorize movies to recommend based on rules and keywords.
 
 ---
@@ -98,22 +98,21 @@ Any favorite actors or directors? (separated by commas):
 Thank you for your preferences! Finding recommendations...
 
 🎬 YOUR MOVIE RECOMMENDATIONS 🎬
---------------------------------------------------
+
 1. Inception (2010) - action, sci-fi, thriller
    Score: 4/10
    Why: Matching genres: action, Matches your excited mood
    Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
---------------------------------------------------
+
 2. The Dark Knight (2008) - action, crime, thriller
    Score: 4/10
    Why: Matching genres: action, Matches your excited mood
    Plot: When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.
---------------------------------------------------
+
 3. Finding Nemo (2003) - animation, adventure, comedy
    Score: 2/10
    Why: Matches your excited mood
    Plot: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
---------------------------------------------------
 
 Enjoy your movie night! 🍿
 
@@ -134,22 +133,21 @@ Any favorite actors or directors? (separated by commas): christopher nolan
 Thank you for your preferences! Finding recommendations...
 
 🎬 YOUR MOVIE RECOMMENDATIONS 🎬
---------------------------------------------------
+
 1. Finding Nemo (2003) - animation, adventure, comedy
    Score: 7/10
    Why: Matching genres: comedy, Matches your happy mood, Released in your preferred time period (2000-2010), Movie length matches your preference (medium)
    Plot: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
---------------------------------------------------
+
 2. Up (2009) - animation, adventure, comedy
    Score: 7/10
    Why: Matching genres: comedy, Matches your happy mood, Released in your preferred time period (2000-2010), Movie length matches your preference (medium)
    Plot: 78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.
---------------------------------------------------
+
 3. Inception (2010) - action, sci-fi, thriller
    Score: 6/10
    Why: Matching genres: action, sci-fi, Released in your preferred time period (2000-2010)
    Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
---------------------------------------------------
 
 Enjoy your movie night! 🍿
 
@@ -170,22 +168,21 @@ Any favorite actors or directors? (separated by commas):
 Thank you for your preferences! Finding recommendations...
 
 🎬 YOUR MOVIE RECOMMENDATIONS 🎬
---------------------------------------------------
+
 1. The Silence of the Lambs (1991) - crime, thriller, horror
    Score: 6/10
    Why: Matching genres: horror, Matches your scared mood, Released in your preferred time period (1990-1999)
    Plot: A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
---------------------------------------------------
+
 2. The Shawshank Redemption (1994) - drama
    Score: 3/10
    Why: Released in your preferred time period (1990-1999), Movie length matches your preference (long)
    Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
---------------------------------------------------
+
 3. Inception (2010) - action, sci-fi, thriller
    Score: 3/10
    Why: Matches your scared mood, Movie length matches your preference (long)
    Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
---------------------------------------------------
 
 Enjoy your movie night! 🍿
 
