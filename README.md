@@ -30,15 +30,15 @@ The **Movie Recommendation System** will function as follows:
 
 1. **User Input Processing Rules:**  
   - **IF** user inputs genre preference
-    - Add genre to filter criteria
+    Add genre to filter criteria
   - **IF** user specifies release year/period
-    - Add year range to filter criteria
+    Add year range to filter criteria
   - **IF** user indicates mood (e.g., "happy", "scary", "thoughtful")
-    - Map mood to appropriate genres
+    Map mood to appropriate genres
   - **IF** user sets runtime preferences (e.g., "short", "long")
-    - Map to specific minute ranges
+    Map to specific minute ranges
   - **IF** user mentions actors/directors
-    - Add to preference criteria
+    Add to preference criteria
 
 2. **Movie Filtering Rules:**  
   - **FOR EACH** movie in database:
