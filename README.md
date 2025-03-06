@@ -79,7 +79,7 @@ The **Movie Recommendation System** will function as follows:
 
 ## Part 3: System Input and Output Results
 
-**Sample Interaction 1:**
+### Sample Interaction 1:
 
 Welcome to the Movie Recommendation System!
 Let's find you a perfect movie to watch.
@@ -116,8 +116,7 @@ Thank you for your preferences! Finding recommendations...
 
 Enjoy your movie night! 🍿
 
-
-**Sample Interaction 2:**
+### Sample Interaction 2:
 
 What genres are you interested in? (e.g., action, comedy, drama, sci-fi, thriller, horror, romance)
 Enter genres separated by commas: action, sci-fi, comedy
@@ -152,7 +151,7 @@ Thank you for your preferences! Finding recommendations...
 Enjoy your movie night! 🍿
 
 
-**Sample Interaction 3:**
+### Sample Interaction 3:
 
 What genres are you interested in? (e.g., action, comedy, drama, sci-fi, thriller, horror, romance)
 Enter genres separated by commas: horror
