@@ -1,4 +1,4 @@
-# Building a Rule-Based AI System in Python project.
+# Building a Rule-Based AI System in Python
 ---
 
 ## Part 1: Initial Project Ideas
