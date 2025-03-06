@@ -1,29 +1,26 @@
-# Sample submission for the Building a Rule-Based AI System in Python project.
-
+# Building a Rule-Based AI System in Python project.
 ---
 
 ## Part 1: Initial Project Ideas
 
-### 1. Project Idea 1: Recipe Recommender
-- **Description:** A system that recommends recipes based on ingredients the user has on hand. The user enters ingredients, and the system matches them to recipes using predefined rules.  
+### 1. Project Idea 1: Plant Disease Diagnostic Tool
+- **Description:** A system where users describe symptoms in their plants, and the AI provides possible diseases and treatment recommendations. 
 - **Rule-Based Approach:**  
-  - The system checks for exact matches and partial matches with the ingredients required for recipes in a dataset.  
-  - Missing ingredients are suggested for partial matches.
+  - Uses decision trees with IF-THEN rules to match symptom descriptions with diseases.
+  - Keywords like "yellow leaves," "spots," or "wilting" trigger specific diagnostic paths.
 
-### 2. Project Idea 2: Simple Chatbot
-- **Description:** A chatbot that responds to user inputs with predefined answers. The chatbot simulates a conversation by identifying keywords and phrases in user inputs.  
+### 2. Project Idea 2: Movie Recommendation System
+- **Description:** Suggests movies based on user preferences and criteria provided.
 - **Rule-Based Approach:**  
-  - Responses are based on keywords such as "hello," "help," or "bye."  
-  - For example, if the user says "hello," the system responds with "Hi there! How can I assist you?"
+  - Rules match user inputs (genre preferences, mood, release year, length) against a database of movies, applying filters and priority rules.
 
-### 3. Project Idea 3: Travel Packing List Generator
-- **Description:** A system that generates a packing list based on the user’s destination, climate, and trip duration.  
+### 3. Project Idea 3: Diet Meal Planner
+- **Description:** Creates meal suggestions based on dietary restrictions, preferences, and nutritional goals.  
 - **Rule-Based Approach:**  
-  - The system uses rules to recommend items.  
-  - For example, if the destination is "beach" and the climate is "hot," the system suggests sunscreen, swimsuits, and sunglasses.
+  - Applies rules to filter food options based on constraints (allergies, calories, nutritional requirements) and generates compatible meal combinations.
 
-### **Chosen Idea:** Recipe Recommender  
-**Justification:** I chose this project because it is practical and applicable to real-life scenarios. It allows me to work with datasets, apply conditional logic, and create a system that provides meaningful recommendations based on user input.
+### **Chosen Idea:** Movie Recommendation System 
+**Justification:** I chose this idea because my friends, family, and I are always trying to decide on what to watch and this could help us decide. This project would be applicable to real-world scenarios and allow me to easily categorize movies to recommend based on rules and keywords.
 
 ---
 
