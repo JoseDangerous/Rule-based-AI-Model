@@ -47,8 +47,7 @@ Once you’ve chosen your project idea, prompt the AI to help you design the rul
 
 Now it’s time to implement the system. Use the AI to assist with writing and debugging the Python code. Here’s an example of an initial prompt:
 
-> "I need help writing Python code for a rule-based system. The system I want to build is a [insert your project idea here], and here are the rules I’ve outlined: [list your rules]. Could you help me
-> write the Python code for this?"
+> "I need help writing Python code for a rule-based system. The system I want to build is a [insert your project idea here], and here are the rules I’ve outlined: [list your rules]. Could you help me write the Python code for this?"
 
 As you interact with the AI:
 
